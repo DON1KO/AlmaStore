@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Environment variables (СЕКРЕТЫ!)
+.env
+
+# Django
+db.sqlite3
+db.sqlite3.bak
+*.log
+staticfiles/
+media/
+
+# OS
+.DS_Store
+Thumbs.db
